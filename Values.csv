@@ -1,0 +1,19 @@
+Sleep Per Play,0.25
+Run Big Play Success,-3
+Run Medium Play Success,-2
+Regular Run Success,-1
+Pass Big Play Success,3
+Pass Medium Play Success,2
+Pass Regular Play Success,1
+Turnover Momentum,-5
+Bonus Multiplier,0.15
+Difference Multipler,1.75
+Win Reward,1000
+Loss Reward,500
+5 Win Bonus,25000
+10 Win Bonus,50000
+20 Win Bonus,100000
+30 Win Bonus,200000
+50 Win Bonus,500000
+75 Win Bonus,1000000
+Quarter Sleep,0
